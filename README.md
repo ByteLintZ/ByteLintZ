@@ -2,7 +2,7 @@
 
 <!-- Image placeholder -->
 <div align="center">
-  <img src="wh.gif" alt="Wormhole Image" width="600"/>
+  <img src="wh.gif" alt="Wormhole Image" width="1000"/>
 </div>
 
 <br/>
