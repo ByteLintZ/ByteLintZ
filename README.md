@@ -49,14 +49,18 @@
   <br/>
 
   # 📊 GitHub Stats:
-  ![](https://github-readme-stats.vercel.app/api?username=Anthemnize&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/><br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=Anthemnize&theme=dark&hide_border=true)<br/><br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthemnize&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+  <div align="center">
+  
+  ![Stats](https://github-readme-stats.vercel.app/api?username=ByteLintZ&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
+  
+  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ByteLintZ&theme=blueberry&hide_border=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteLintZ&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
 
   <br/>
 
   ## 🚀 Activity Graph:
-  ![](https://activity-graph.herokuapp.com/graph?username=Anthemnize&theme=github)
+  ![](https://raw.githubusercontent.com/ByteLintZ/ByteLintZ/output/github-contribution-grid-snake-dark.svg))
 
   <br/>
 
@@ -65,5 +69,4 @@
 
   <br/>
 
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
