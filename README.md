@@ -60,7 +60,8 @@
   <br/>
 
   ## 🚀 Activity Graph:
-  ![](https://raw.githubusercontent.com/ByteLintZ/ByteLintZ/output/github-contribution-grid-snake-dark.svg)
+  <img src="https://raw.githubusercontent.com/ByteLintZ/ByteLintZ/output/snake.svg" alt="Snake animation" />
+
 
   <br/>
 
