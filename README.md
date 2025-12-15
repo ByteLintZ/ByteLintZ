@@ -1,73 +1,103 @@
 <div align="center">
-  <!-- Image placeholder -->
-  <div align="center">
-    <img src="wh.gif" alt="Wormhole Image" width="1000"/>
-  </div>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=280&section=header&text=Hi,%20I'm%20Fabian!&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20//%20Early-Stage%20AI%20Researcher&descAlignY=55&descAlign=50&fontColor=ffffff" alt="Header" width="100%"/>
 
   <br/>
 
-  <h1>Entering interdimensional wormhole...</h1>
+  ### 🎯 Optimizing complex systems at the intersection of AI and human behavior.
 
   <br/>
 
-  <br/>
+</div>
 
-  <br/>
+---
 
-  <br/>
+## 👋 About Me
 
-  <br/>
+I’m **Fabian**, a final-year **Vocational High School (SMK) student** in **Software Engineering**, based in **Jakarta, Indonesia** 🇮🇩.
 
-  <br/>
+My background is in **high-performance application development**. While my current research explores **Affective Computing**, my broader goal is to design **Intelligent Systems** that are scalable, accurate, and capable of handling complex human constraints. I’m currently preparing to transition from applied engineering into **research-oriented AI development**.
 
-  # 💫 About Me:
-  Hey! I'm Fabian, you can call me Bian though. I am from Indonesia.
+* 🔭 **Focus:** Intelligent Systems, Applied AI & Human-Centered Computing
+* ⚙️ **Engineering Values:** Scalability, clean architecture, and data-driven validation
+* 💼 **Current Status:** Incoming Intern at **PT Cartenz Technology**
 
-  <br/>
+---
 
-  🔭 I’m currently working on Kotlin<br/><br/>
-  🌱 I’m currently learning Advanced C# Programming<br/><br/>
-  ⚡ Fun fact: Kotlin is multi-platform!
+## 🔗 Research Network
 
-  <br/>
+<div align="center">
+  <a href="https://scholar.google.com/citations?user=qwnD80QAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
+  </a>
+  <a href="https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Prasetyo%2C%20M.%20Fabian%22&l=list&p=1&s=10&sort=bestmatch">
+    <img src="https://img.shields.io/badge/Zenodo-0277BD?style=for-the-badge&logo=zenodo&logoColor=white" alt="Zenodo"/>
+  </a>
+  <a href="https://www.researchgate.net/profile/M-Prasetyo?ev=hdr_xprf">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate"/>
+  </a>
+</div>
 
-  ## 🌐 Socials:
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/biann25z)
+---
 
-  <br/>
+## 🏆 Selected Works & Impact
 
-  # 💻 Tech Stack:
-  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+| Area | Description |
+| :--- | :--- |
+| **Research** | **Published Author**: *Empathic AI Chatbot* (Zenodo). A study on optimizing system responses by quantifying human emotional states as data. |
+| **Competition** | **Winner**, LKS IT Software Solutions for Business (ITSSB). Developed a high-fidelity software architecture under strict national competition standards. |
+| **Leadership** | **Secretary General**, Central Jakarta Student Council Forum (FODJP). Optimized organizational workflows and coordinated inter-school student advocacy. |
 
-  <br/>
+---
 
-  # 📊 GitHub Stats:
-  <div align="center">
-  
-  ![Stats](https://github-readme-stats.vercel.app/api?username=ByteLintZ&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
-  
-  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ByteLintZ&theme=blueberry&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteLintZ&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
+## 🛠️ Technical Stack
 
-  <br/>
+### Primary (High Proficiency)
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+</div>
 
-  ## 🚀 Activity Graph:
-  <img src="https://raw.githubusercontent.com/ByteLintZ/ByteLintZ/output/snake.svg" alt="Snake animation" />
+<br/>
 
+### Secondary & Supporting Tools
+<div align="left">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+</div>
 
-  <br/>
+---
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Anthemnize)
+## 📊 GitHub Analytics
 
-  <br/>
+<div align="center">
+  <a href="https://github.com/ByteLintZ">
+    <img src="https://github-readme-stats.vercel.app/api?username=ByteLintZ&show_icons=true&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/ByteLintZ">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteLintZ&layout=compact&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ByteLintZ&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+  <a href="https://instagram.com/biann25z">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
 </div>
