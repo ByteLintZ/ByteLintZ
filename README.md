@@ -30,7 +30,7 @@ My background is in **high-performance application development**. While my curre
   <a href="https://scholar.google.com/citations?user=qwnD80QAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
   </a>
-  <a href="https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Prasetyo%2C%20M.%20Fabian%22&l=list&p=1&s=10&sort=bestmatch">
+  <a href="https://zenodo.org/records/17605120">
     <img src="https://img.shields.io/badge/Zenodo-0277BD?style=for-the-badge&logo=zenodo&logoColor=white" alt="Zenodo"/>
   </a>
   <a href="https://www.researchgate.net/profile/M-Prasetyo?ev=hdr_xprf">
