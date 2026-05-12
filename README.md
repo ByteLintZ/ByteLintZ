@@ -44,7 +44,7 @@ My background is in **high-performance application development**. While my curre
 
 > **An emotion-aware educational chatbot powered by IndoBERT and Groq LPU Inference.**
 
-Didesain untuk mendeteksi tingkat frustrasi siswa SMK dan memberikan respons adaptif secara *real-time*. Proyek ini memadukan *Affective Computing* dengan *engineering architecture* yang *scalable*.
+Designed to detect frustration levels in vocational high school students and provide adaptive real-time responses. This project integrates **Affective Computing** with a **scalable engineering architecture**.
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-success?style=for-the-badge)](https://empathic-systems-fe.vercel.app)
 [![Source Code](https://img.shields.io/badge/GitHub-Showcase_Repo-181717?style=for-the-badge&logo=github)](https://github.com/ByteLintZ/empathic-systems-showcase)
