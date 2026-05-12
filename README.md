@@ -20,7 +20,7 @@ My background is in **high-performance application development**. While my curre
 
 * 🔭 **Focus:** Intelligent Systems, Applied AI & Human-Centered Computing
 * ⚙️ **Engineering Values:** Scalability, clean architecture, and data-driven validation
-* 💼 **Current Status:** Incoming Intern at **PT Cartenz Technology**
+* 💼 **Current Status:** Intern at **PT Cartenz Technology**
 
 ---
 
@@ -40,11 +40,23 @@ My background is in **high-performance application development**. While my curre
 
 ---
 
+## 🌟 Featured Project: EduChat (Empathic AI)
+
+> **An emotion-aware educational chatbot powered by IndoBERT and Groq LPU Inference.**
+
+Didesain untuk mendeteksi tingkat frustrasi siswa SMK dan memberikan respons adaptif secara *real-time*. Proyek ini memadukan *Affective Computing* dengan *engineering architecture* yang *scalable*.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-success?style=for-the-badge)](https://empathic-systems-fe.vercel.app)
+[![Source Code](https://img.shields.io/badge/GitHub-Showcase_Repo-181717?style=for-the-badge&logo=github)](https://github.com/ByteLintZ/empathic-systems-showcase)
+[![Research Paper](https://img.shields.io/badge/Zenodo-Published_Paper-0277BD?style=for-the-badge&logo=zenodo)](https://doi.org/10.5281/zenodo.17427192)
+
+---
+
 ## 🏆 Selected Works & Impact
 
 | Area | Description |
 | :--- | :--- |
-| **Research** | **Published Author**: *Empathic AI Chatbot* (Zenodo). A study on optimizing system responses by quantifying human emotional states as data. |
+| **Research** | **Author**: *Empathic AI Chatbot* (Zenodo). An open-access study on optimizing system responses by quantifying human emotional states as data. |
 | **Competition** | **Winner**, LKS IT Software Solutions for Business (ITSSB). Developed a high-fidelity software architecture under strict national competition standards. |
 | **Leadership** | **Secretary General**, Central Jakarta Student Council Forum (FODJP). Optimized organizational workflows and coordinated inter-school student advocacy. |
 
@@ -52,10 +64,19 @@ My background is in **high-performance application development**. While my curre
 
 ## 🛠️ Technical Stack
 
-### Primary (High Proficiency)
+### 🧠 AI, Machine Learning & Data Science
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+</div>
+
+<br/>
+
+### ⚙️ Backend & System Architecture
+<div align="left">
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -64,15 +85,13 @@ My background is in **high-performance application development**. While my curre
 
 <br/>
 
-### Secondary & Supporting Tools
+### ☁️ Cloud, Deployment & DevOps
 <div align="left">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
-
 ---
 
 ## 📊 GitHub Analytics
